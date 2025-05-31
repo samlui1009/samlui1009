@@ -1,17 +1,16 @@
 <h1>👋Welcome to my Github!</h1>
 <br>
-<p>Hello! My name is Sam, and I am a current third-year Bachelor of Computer Science student, affiliated with the University of British Columbia. 📖 Before making my career transition into tech, I pursued and graduated with a Bachelor of Science in Health Sciences from Simon Fraser University in 2018, and also hold an Advanced Diploma in Clinical Genetics Technology from the British Columbia Institute of Technology. 🔬</p>
+<p>Hello! My name is Sam, and I am a current third-year Bachelor of Computer Science student, affiliated with the University of British Columbia. 📖 Before making my career pivot into the tech industry, I pursued and graduated with a Bachelor of Science in Health Sciences from Simon Fraser University in 2018. I also hold an Advanced Diploma in Clinical Genetics Technology from the British Columbia Institute of Technology, and am a certified Clinical Genetics Technologist under the Canadian Society for Medical Laboratory Science, specializing in Molecular Genetics and Cytogenetics. 🔬</p>
 <br>
-<p>After working in healthcare, I realized that current technological advancements - including, advents in Artificial Intelligence, bioinformatics, and clinical informatics - can positively improve overall care quality, and health outcomes. :hospital: I hope to one day use the skills I gain from my second degree to give back and make fruitful contributions to society and beyond 🌎</p>
+<p>Working in healthcare opened my eyes to the many inefficiencies that often plagues the public healthcare system, and its potential negative consequences for the general public. It is through these experiences that had ignited my passions to harness the power of technology - such as Artificial Intelligence, data science, bioinformatics, clinical informatics - to streamline workflows and day-to-day operations to improve overall care quality and health outcomes. :hospital: I hope to one day use my technical skills I gain from my second degree to give back and make fruitful contributions to society and beyond 🌎</p>
 
 <br>
-<p>🌱 Currently, I'm working on: The Missing Semester of Your CS Education, C++</p>
+<p>🌱 Currently, I'm working on: The Missing Semester of Your CS Education, learning C++</p>
 <p>💭 Right now, I'm building: My portfolio webpage!</p>
 <p>😄 I am open to working on collaborative projects and teaming up for hackathons</p>
 <p>⚡ A fun fact about me: I once lived in Japan for an 8-month internship, and did an overnight hike at Mount Fuji!</p>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-lui-6250a787) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sam_lui@hotmail.ca) 
 
 # 💻 Tech Stack:
@@ -21,11 +20,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samlui1009&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samlui1009&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samlui1009&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=samlui1009&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

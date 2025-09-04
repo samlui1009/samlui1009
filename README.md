@@ -1,13 +1,12 @@
 <h1>👋Welcome to my Github!</h1>
 <br>
 <p>Hello! My name is Sam, and I am a current third-year Bachelor of Computer Science student, affiliated with the University of British Columbia. 📖 Before making my career pivot into the tech industry, I pursued and graduated with a Bachelor of Science in Health Sciences from Simon Fraser University in 2018. I also hold an Advanced Diploma in Clinical Genetics Technology from the British Columbia Institute of Technology, and am a certified Clinical Genetics Technologist under the Canadian Society for Medical Laboratory Science, specializing in Molecular Genetics and Cytogenetics. 🔬</p>
-<br>
 <p>Working in healthcare opened my eyes to the many inefficiencies that often plagues the public healthcare system, and its potential negative consequences for the general public. It is through these experiences that had ignited my passions to harness the power of technology - such as Artificial Intelligence, data science, bioinformatics, clinical informatics - to streamline workflows and day-to-day operations to improve overall care quality and health outcomes. :hospital: I hope to one day use my technical skills I gain from my second degree to give back and make fruitful contributions to society and beyond 🌎</p>
+<p>Currently, I'm working with Shared Services Canada as an Information Technology Analyst Co-op Student (4 months), where I'm gaining exposure into the fundamentals of technical support work (Service Manager 9, Excel, JavaScript scripting for automation processes). I am also actively seeking a 4-month or 8-month internship for January 2026.</p>
 
-<br>
-<p>🌱 Currently, I'm working on: The Missing Semester of Your CS Education, learning C++</p>
-<p>💭 Right now, I'm building: My portfolio webpage!</p>
-<p>😄 I am open to working on collaborative projects and teaming up for hackathons</p>
+<p>🌱 I'm working on learning: The Missing Semester of Your CS Education, C++, AWS</p>
+<p>💭 Right now, I'm building: SipLy and AniMori!</p>
+<p>😄 I am always open to working on collaborative projects and teaming up for hackathons, just send me an e-mail below!</p>
 <p>⚡ A fun fact about me: I once lived in Japan for an 8-month internship, and did an overnight hike at Mount Fuji!</p>
 
 # 🌐 Socials:
